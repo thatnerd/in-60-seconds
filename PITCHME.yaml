@@ -30,7 +30,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "<img src='https://cdn-images-1.medium.com/max/1200/1*yEYvn9QUuVnqgakcVUIjYA.png'></img>"
+footnote : "<a href='https://cdn-images-1.medium.com/max/1200/1*yEYvn9QUuVnqgakcVUIjYA.png'></a>"
 
 #
 # Published Setting
