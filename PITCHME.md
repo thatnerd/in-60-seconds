@@ -1,5 +1,8 @@
 ---?color=#111D39
-# Writing Day Recap
+# CockroachDB: Reads and Writes
+@snap[southeast]
+![IMAGE](assets/img/cockroach_labs_logo.jpeg)
+@snapend
 
 Lauren Hirata, Senior Tech Writer
 ---
