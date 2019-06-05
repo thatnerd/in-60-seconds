@@ -42,7 +42,7 @@ Will Cross, Director of Training
   - Value is the primary key of the table row that is pointed to\*\*
   - *Ordered by index key*
 
-```SQL
+```SQL[span-100]
 > SELECT * FROM animals;  -- primary key is id, we index common_name
                                    
   id |        species         | common_name |                                description
@@ -51,6 +51,7 @@ Will Cross, Director of Training
    2 | Canis lupus familiaris | dog         | Domesticated predator known for its loyalty and intelligence
    3 | Ursus maritimus        | polar bear  | Large wild predator with white fur that lives mostly in the Arctic Circle
 ```
+
 ---
 
 
