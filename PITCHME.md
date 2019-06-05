@@ -34,6 +34,25 @@ Will Cross, Director of Training
 
 ---
 
+@snap[north span-100]
+### How are Indexes Stored in CockroachDB
+@snapend
+- Indexes are _also_ in RocksDB
+  - Key is the index Key\* used to look up data
+  - Value is the primary key of the table row that is pointed to\*\*
+  - *Ordered by index key*
+
+```SQL
+> SELECT * FROM animals;  -- primary key is id, we index common_name
+                                   
+  id |        species         | common_name |                                description
++----+------------------------+-------------+---------------------------------------------------------------------------+
+   1 | Felis catus            | cat         | Small semi-domesticated predator known for its soft fur and sharp claws
+   2 | Canis lupus familiaris | dog         | Domesticated predator known for its loyalty and intelligence
+   3 | Ursus maritimus        | polar bear  | Large wild predator with white fur that lives mostly in the Arctic Circle
+```
+
+
 ---
 
 
