@@ -16,6 +16,15 @@ Will Cross, Director of Training
 6. How does CockroachDB guarantee consistency?
 ---
 
+###How is Data Stored in CockroachDB?
+
+* *Bad question!*
+* Better:
+  * How are tables stored in CockroachDB?
+  * How are indexes stored?
+
+---
+
 @snap[north span-100]
 ## What's Write the Docs?
 @snapend
