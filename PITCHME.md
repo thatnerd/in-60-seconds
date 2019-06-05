@@ -1,4 +1,4 @@
----?image=assets/image/cockroach_background.png
+---?image=assets/img/cockroach_background.png
 ## CockroachDB: Reads and Writes
 
 Will Cross, Director of Training
