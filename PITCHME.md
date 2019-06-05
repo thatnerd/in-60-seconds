@@ -1,5 +1,3 @@
-logo-position : bottom-right
-
 ---?color=#111D39
 ## CockroachDB: Reads and Writes
 @snap[south-east span-30]
