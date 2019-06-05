@@ -1,7 +1,7 @@
 ---?color=#111D39
 # CockroachDB: Reads and Writes
-@snap[southeast]
-![IMAGE](assets/img/cockroach_labs_logo.jpeg)
+@snap[southeast span-25]
+![IMAGE](assets/img/cockroach_labs_logo.jpg)
 @snapend
 
 Lauren Hirata, Senior Tech Writer
