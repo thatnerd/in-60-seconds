@@ -16,9 +16,7 @@ Will Cross, Director of Training
 6. How does CockroachDB guarantee consistency?
 ---
 
-@snap[north span-100]
-How is Data Stored in CockroachDB?
-@snapend 
+### How is Data Stored in CockroachDB?
 
 @snap[west span-70 text-left]
 * *Bad question!*
