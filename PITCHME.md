@@ -20,10 +20,12 @@ Will Cross, Director of Training
 How is Data Stored in CockroachDB?
 @snapend 
 
+@snap[west span-70 text-left]
 * *Bad question!*
 * Better:
   * How are tables stored in CockroachDB?
   * How are indexes stored?
+@snap
 
 @snap[east span-30]
 ![Dunce Cap](https://static.tvtropes.org/pmwiki/pub/images/dunce_hat.jpg)
