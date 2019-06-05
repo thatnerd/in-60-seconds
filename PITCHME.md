@@ -1,10 +1,8 @@
 ---?color=#111D39
-# CockroachDB: Reads and Writes
-@snap[south-east span-25]
-![Cockroach Logo](assets/img/cockroach_labs_logo.png)
-@snapend
+---?image=assets/image/cockroach_background.png
+## CockroachDB: Reads and Writes
 
-Lauren Hirata, Senior Tech Writer
+Will Cross, Director of Training
 ---
 @snap[north span-100]
 ## What's Write the Docs?
