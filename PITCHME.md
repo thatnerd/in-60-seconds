@@ -15,8 +15,9 @@ Will Cross, Director of Training
 5. How does CockroachDB tolerate failures?
 6. How does CockroachDB guarantee consistency?
 ---
-
+@snap[north]
 ### How is Data Stored in CockroachDB?
+@snapend
 
 @snap[west span-70 text-left]
 * *Bad question!*
