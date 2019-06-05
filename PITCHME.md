@@ -42,7 +42,7 @@ Will Cross, Director of Training
   - Value is the primary key of the table row that is pointed to\*\*
   - *Ordered by index key*
 
-```SQL[span-100]
+```sql
 > SELECT * FROM animals;  -- primary key is id, we index common_name
                                    
   id |        species         | common_name |                                description
