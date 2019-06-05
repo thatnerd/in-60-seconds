@@ -1,7 +1,11 @@
----?image=assets/img/cockroach_background.png
-## CockroachDB: Reads and Writes
+logo : assets/img/cockroach_labs_logo.png
+logo-position : bottom-right
 
+---?color=#111D39
+## CockroachDB: Reads and Writes
+@snap[south]
 Will Cross, Director of Training
+@snapend
 ---
 @snap[north span-100]
 ## What's Write the Docs?
