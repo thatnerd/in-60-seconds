@@ -1,6 +1,6 @@
 ---?color=#111D39
 # CockroachDB: Reads and Writes
-@snap[southeast span-25]
+@snap[south-east span-25]
 ![Cockroach Logo](assets/img/cockroach_labs_logo.png)
 @snapend
 
