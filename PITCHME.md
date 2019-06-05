@@ -1,4 +1,3 @@
----?color=#111D39
 ---?image=assets/image/cockroach_background.png
 ## CockroachDB: Reads and Writes
 
