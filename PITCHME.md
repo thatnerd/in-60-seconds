@@ -23,10 +23,8 @@ Will Cross, Director of Training
 @ul
 * *Bad question!*
 * Better:
-  @ul
   * How are tables stored in CockroachDB?
   * How are indexes stored?
-  @ulend
 @ulend
 @snap
 
