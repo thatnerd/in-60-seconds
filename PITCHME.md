@@ -36,10 +36,12 @@ Will Cross, Director of Training
 @snap[north span-100]
 ### How are Indexes Stored in CockroachDB
 @snapend
+@ul[left span-70]
 - Indexes are _also_ in RocksDB
   - Key is the index key\* used to look up data
   - Value is the primary key of the table row that is pointed to\*\*
   - *Ordered by index key*
+@ulend
 
 ```SQL
 > SELECT * FROM animals;  -- primary key is id, we index common_name
