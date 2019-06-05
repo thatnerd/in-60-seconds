@@ -1,8 +1,11 @@
-logo : assets/img/cockroach_labs_logo.png
 logo-position : bottom-right
 
 ---?color=#111D39
 ## CockroachDB: Reads and Writes
+@snap[south-east span-30]
+assets/img/cockroach_labs_logo.png
+@snapend
+
 @snap[south]
 Will Cross, Director of Training
 @snapend
