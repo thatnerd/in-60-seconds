@@ -30,7 +30,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "Cockroach Labs"
+footnote : "<img src='https://cdn-images-1.medium.com/max/1200/1*yEYvn9QUuVnqgakcVUIjYA.png'></img>"
 
 #
 # Published Setting
