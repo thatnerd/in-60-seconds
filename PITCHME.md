@@ -8,14 +8,12 @@ Will Cross, Director of Training
 ## Agenda
 @snapend
 
-@snap[west]
 1. How is data stored in CockroachDB?
 2. How do reads & writes happen locally?
 3. How is data replicated/distributed?
 4. How do reads & writes happen in a cluster?
 5. How does CockroachDB tolerate failures?
 6. How does CockroachDB guarantee consistency?
-@snapend
 ---
 
 @snap[north span-100]
