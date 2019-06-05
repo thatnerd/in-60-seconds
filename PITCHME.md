@@ -36,6 +36,7 @@ Will Cross, Director of Training
 @snap[north span-100]
 ### How are Indexes Stored in CockroachDB
 @snapend
+
 @ul[west span-70]
 - Indexes are _also_ in RocksDB
   - Key is the index key\* used to look up data
