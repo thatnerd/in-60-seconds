@@ -4,8 +4,8 @@
 Will Cross, Director of Training
 @snapend
 ---
-@snap[north-east]
-## Agenda
+@snap[north-west]
+### Agenda
 @snapend
 
 1. How is data stored in CockroachDB?
