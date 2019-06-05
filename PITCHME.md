@@ -8,10 +8,6 @@ Will Cross, Director of Training
 ## What's Write the Docs?
 @snapend
 
-@snap[west span-25]
-![IMAGE](assets/img/sticker-wtd-colors.png)
-@snapend
-
 @snap[east span-70]
 “**Write the Docs** is a global community of people who care about documentation.
 

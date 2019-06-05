@@ -18,7 +18,7 @@ theme-override: assets/css/PITCHME.css
 # https://gitpitch.com/docs/settings/logo
 #
 logo : assets/img/cockroach_labs_logo.png
-logo-postion : bottom-right
+logo-postion : north-east
 
 #
 # Layout Setting
