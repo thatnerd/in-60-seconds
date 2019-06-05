@@ -15,15 +15,19 @@ Will Cross, Director of Training
 5. How does CockroachDB tolerate failures?
 6. How does CockroachDB guarantee consistency?
 ---
-@snap[north]
+@snap[north span-100]
 ### How is Data Stored in CockroachDB?
 @snapend
 
-@snap[west span-70 text-left]
+@snap[west span-70 ]
+@ul
 * *Bad question!*
 * Better:
+  @ul
   * How are tables stored in CockroachDB?
   * How are indexes stored?
+  @ulend
+@ulend
 @snap
 
 @snap[east span-30]
