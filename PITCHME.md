@@ -47,6 +47,12 @@ Will Cross, Director of Training
 @ulend
 @snapend
 
+---
+
+### Index Example
+
+- Consider indexing the following by `common_name`
+
 ```sql
 > SELECT * FROM animals;  -- primary key is id, we index common_name
                                    
