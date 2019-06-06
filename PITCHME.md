@@ -21,7 +21,7 @@ Will Cross, Director of Training
 ### How is Data Stored in CockroachDB?
 @snapend
 
-@ul[west span-70]
+@ul[west span-70](false)
 - *Bad question!*
 - Better:
   - How are tables stored in CockroachDB?
