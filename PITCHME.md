@@ -54,7 +54,7 @@ Will Cross, Director of Training
 - Consider indexing the following by `common_name`
 
 ```sql
-> SELECT * FROM animals;  -- primary key is id, we index common_name
+> SELECT * FROM animals;  -- Index common_name
                                    
   id |        species         | common_name |                                description
 +----+------------------------+-------------+---------------------------------------------------------------------------+
@@ -62,6 +62,8 @@ Will Cross, Director of Training
    2 | Canis lupus familiaris | dog         | Domesticated predator known for its loyalty and intelligence
    3 | Ursus maritimus        | polar bear  | Large wild predator with white fur that lives mostly in the Arctic Circle
 ```
+
+* PLACEHOLDER: ADD IMAGE HERE
 
 ---
 
