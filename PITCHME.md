@@ -41,8 +41,8 @@ Will Cross, Director of Training
 <br/>
 @ul[](false)
 - Indexes are _also_ in RocksDB
-  - Key is the index key\* used to look up data
-  - Value is the primary key of the table row that is pointed to\*\*
+  - Key is the index key\*
+  - Value is the primary key of the row\*\*
   - *Ordered by index key*
 @ulend
 @snapend
