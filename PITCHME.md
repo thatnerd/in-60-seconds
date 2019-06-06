@@ -47,10 +47,9 @@ Will Cross, Director of Training
 @ulend
 @snapend
 
-@snap[south-west list-content-verbose span-50]
-* RocksDB key _includes_ the index key <br/>
-** Another useful oversimplification
-
+@snap[south-west list-content-verbose span-70]
+\* RocksDB key _includes_ the index key <br/>
+\*\* Another useful oversimplification
 @snapend
 
 ---
