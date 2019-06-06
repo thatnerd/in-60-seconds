@@ -76,6 +76,13 @@ Add an image here.
 
 ---
 
+### (Skip a bunch of slides)
+
+I want to get to animations.
+
+
+---
+
 
 @snap[north span-100]
 ## What's Write the Docs?
