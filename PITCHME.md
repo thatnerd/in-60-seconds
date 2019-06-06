@@ -38,10 +38,13 @@ Will Cross, Director of Training
 @snapend
 
 @snap[west list-content-verbose span-70]
+<br/>
+@ul[](false)
 - Indexes are _also_ in RocksDB
   - Key is the index key\* used to look up data
   - Value is the primary key of the table row that is pointed to\*\*
   - *Ordered by index key*
+@ulend
 @snapend
 
 ```sql
