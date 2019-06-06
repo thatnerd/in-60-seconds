@@ -8,7 +8,7 @@ Will Cross, Director of Training
 ### Agenda
 @snapend
 
-@ol[](false)
+@ol[]
 - How is data stored in CockroachDB?
 - How do reads & writes happen locally?
 - How is data replicated/distributed?
